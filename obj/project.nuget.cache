@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+KD+on9Ofs9oOxBo6HFj9c9nt4KSPGWNr6n1QQsN5tWQQzWY4+gmVL2nR10Z3eNhVqAw7cB0OgFuuP+qRtrHiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user-000\\Desktop\\Hobby\\vsCommunity_workspace\\FactoryDesignPatternQuery\\FactoryDesignPatternQuery.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user-000\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\FactoryDesignPatternQuery\bin\Debug\netcoreapp3.1\FactoryDesignPatternQuery.exe
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\FactoryDesignPatternQuery\bin\Debug\netcoreapp3.1\FactoryDesignPatternQuery.deps.json
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\FactoryDesignPatternQuery\bin\Debug\netcoreapp3.1\FactoryDesignPatternQuery.runtimeconfig.json
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\FactoryDesignPatternQuery\bin\Debug\netcoreapp3.1\FactoryDesignPatternQuery.runtimeconfig.dev.json
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\FactoryDesignPatternQuery\bin\Debug\netcoreapp3.1\FactoryDesignPatternQuery.dll
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\FactoryDesignPatternQuery\bin\Debug\netcoreapp3.1\FactoryDesignPatternQuery.pdb
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\FactoryDesignPatternQuery\obj\Debug\netcoreapp3.1\FactoryDesignPatternQuery.csprojAssemblyReference.cache
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\FactoryDesignPatternQuery\obj\Debug\netcoreapp3.1\FactoryDesignPatternQuery.AssemblyInfoInputs.cache
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\FactoryDesignPatternQuery\obj\Debug\netcoreapp3.1\FactoryDesignPatternQuery.AssemblyInfo.cs
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\FactoryDesignPatternQuery\obj\Debug\netcoreapp3.1\FactoryDesignPatternQuery.dll
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\FactoryDesignPatternQuery\obj\Debug\netcoreapp3.1\FactoryDesignPatternQuery.pdb
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\FactoryDesignPatternQuery\obj\Debug\netcoreapp3.1\FactoryDesignPatternQuery.genruntimeconfig.cache
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\FactoryDesignPatternQuery\obj\Debug\netcoreapp3.1\FactoryDesignPatternQuery.csproj.CoreCompileInputs.cache
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\FactoryDesignPatternQuery\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\FactoryDesignPatternQuery\obj\Debug\netcoreapp3.1\FactoryDesignPatternQuery.csproj.CopyComplete
